@@ -1,3 +1,4 @@
+import java.io.FileNotFoundException;
 import java.util.Objects;
 import java.util.Scanner;
 import com.google.auth.oauth2.GoogleCredentials;
@@ -16,6 +17,17 @@ public class main {
     private int score;
 
      public static void main (String[] args){
+         try{
+             FileInputStream serviceAccount = new FileInputStream("src/main/FirebaseKey/key.json");
+             FirebaseOptions options = FirebaseOptions.builder().setCredentials(GoogleCredentials
+                     .fromStream(serviceAccount))
+                     .setDatabaseUrl("https://number-guessing-game-1b8d0-default-rtdb.europe-west1.firebasedatabase.app/")
+                     .build();
+             FirebaseApp.initializeApp(options);
+             FirebaseDatabase database = FirebaseDatabase.getInstance();
+         } catch (IOException e){
+             e.printStackTrace();
+         }
          System.out.println("Hello, Welcome to Simple Calculator");
          String input1 = getInput("Is it your first game?(y/n) ");
      }
