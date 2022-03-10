@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "number-guessing-game-1b8d0",
+  "private_key_id": "218d1b41ed8a0a56f4ee45a5456698f3096f84b7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCnfi5HALSBLdbj\nRfJRVrSc2YNcif6QBSy9kEr4Cmm5DELsUmqL0fiuGVchbOhbNIWvii8/sRLVzoOU\nYIYLstHdJL9IJ2jYuuGBe7GHZmDWOWd+MEbcqola2G6MjK5h9FhztfQu0VAiZd0U\n/byas0PanERXio/M7Bx/38PI+8238z0warqvWYDgvvYgAhONJNPj7570fhYMlG2A\n6Swc0oOlbnQMwuRX5sP2O0SgZdE7y1c6yqxfqdpxPeiEXDuAc4TvEFB94MgQHBwh\n3oaIzFFPLaTpiNYzmwO7kNPNqcBuqeNHfN0tCAwxpBcqNXAbNnJc5JmuUTzAjC8e\nlP6tLfNrAgMBAAECggEAQU5ImvSibK/D1o/CQIavG20P8/f2Io9x92OYZ4gf2r/2\nJBCqbGPtM2y79VNycYVUDrKxY4MWVfkUgrjz6wHJJBGc53Q+RCrxnDvvZ1y6qyxs\ntt358zYnIh27VN/Ram4MQumSEOMZ/J99CR8595OoBEfjucJT+VGidxV3UBkmB++T\nYez2itkplpZL8PM2LfRzgmmGV4tEz/OdpcM5poybuU5ISoGjntRsmPlo6FRGoYlO\n+DXtP+cRcP8cVT2ixFkG7g1nFwWWq6LQlL8icmAgT7Auw28LGUKTI/JzO058bnBI\n/hbxdO8yViYKWi/thYbCbzd5SZiD9EJmWaka7e1RYQKBgQDsvQ6Ivcs64URH1h5X\nEjudTg90sYhfWeEti9XcOV2DxiLsivGJ2o0jiann7GT9FKENEsLwPX1ldpLcrXrN\nqY7wGi207K/jNRTklJWDNhJqrydEvtaMyENzgeP+3sOGqlK9BHIlR+gQ2yYk4E6U\nMLRYHEVZnGgmA1S5Rv0sZo9vmwKBgQC1HtTcqKzGao6VAn86/Z/p/Haxo7D5UXKG\nZyLYsSHN1Muy29qRskG9EAxCSYkzEbJGNsSv7DtAK+xNgaT3zYmr9AdvEjsqeJzW\n6zsD7d2CZyfSkhaTWh0aH40fLAOsHh47C9nnO6/0EjFcXwSL5QPr2PPhb36JpwCX\n7yRIiuwQcQKBgG5/C5Kda4cu74zMDts7ImIYtjQUTP+cVvLISuiASfqgd1qKu5RJ\nUwkcTxZ2CujpQQZ2FFDHkojSIFgqDKCDnLjKrzy8IJhfBUJva52TlmL/H8gBfui0\n7G60WLN0TDTFuNqKgbCO8G01rIcXvvWCChr6DxB1ZVMgyOG1laOstxQzAoGBAJtE\nQQqg9uxpsK2BJHz3q701FrOWNkKlVd5uT+sffnEreSxtWOQJwl1HgprY22sSQpf6\nn4aIpwqOHNccysU8SEdGvZC0OlBgcWO06DSoF3qQ4Ayd/Ah5+fTJE3ujicplT1kj\nAbw+6Mn9Rp9/PTCINWJb7EZYBEwRBGs7MQmXPmOhAoGAeNV3uD5YgZN6dvl0kUKP\njP6wfRhaJGgxCg0gamct5pNivqs48yo3QGRf4t20tIeTSXRgN0TypEHAs10O2n1A\n5kJb7c7Gztrc1wNDoQOzjXvkLhH1iTcn+QaHwLoIQXtFDfgksCsdzj1SiHWnxtSA\n+c196Dn7ddEGEdmAQk+T5Io=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-xlvza@number-guessing-game-1b8d0.iam.gserviceaccount.com",
+  "client_id": "110544774928626107181",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-xlvza%40number-guessing-game-1b8d0.iam.gserviceaccount.com"
+}
